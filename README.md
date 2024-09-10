@@ -25,7 +25,7 @@ This project is a clone of the popular food delivery app Swiggy, built using Rea
 ### State Management:
 - React useState and useEffect hooks for local state management
 #### Mock Data:
-- Static JSON files to simulate restaurant and menu data.
+- Static Javascript file to simulate restaurant and menu data.
 
 ## Future Enhancements
 - **Backend Integration:** Replace mock data with live data from a backend API.

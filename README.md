@@ -8,6 +8,24 @@
 ![image](https://github.com/user-attachments/assets/291cafdb-1fa7-47fb-953d-d53fe3c1519a)
 ![image](https://github.com/user-attachments/assets/684b256d-6626-4593-b2ff-4ba5af36bbb0)
 
+## Project Overview
+This project is a clone of the popular food delivery app Swiggy, built using React.js. The main purpose of this project is to simulate the core functionalities of an online food delivery platform, including restaurant browsing, cart management, and order placement. This project serves as a practical exercise to enhance skills in front-end development and user interface design.
+
+## Features
+- **Restaurant Listing:** Browse and select from a list of available restaurants.
+- **Menu Display:** View the menu items for each restaurant, with details and pricing.
+- **Cart Management:** Add, update, and remove items from the cart.
+- **Order Summary:** Review your order before placing it, with a detailed summary of items and total cost.
+- **Responsive Design:** The app is fully responsive and works seamlessly on both desktop and mobile devices.
+## Technology Stack
+### Frontend:
+- React.js
+- React Router for navigation
+- CSS for styling
+### State Management:
+- React useState and useEffect hooks for local state management
+#### Mock Data:
+- Static JSON files to simulate restaurant and menu data (replaceable with real APIs).
 
 
 
